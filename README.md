@@ -32,7 +32,9 @@ Move the paddle, bounce the ball and break all the bricks to win!
 3. Open `src/brickBraker/Main.java` and click the Run button.
 
 ## 📸 Screenshot
-(Add a screenshot of the game here)
+<img width="1920" height="1020" alt="Screenshot 2026-11-24 204124" src="https://github.com/user-attachments/assets/5d4cb195-30e0-4f97-825e-6afa34461971" />
+
+
 
 ## 👩‍💻 Author
 Manju Mishra - [@manjumishra0](https://github.com/manjumishra0)
